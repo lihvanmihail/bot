@@ -1,0 +1,6 @@
+python-telegram-bot==20.8
+uuid>=1.30
+apscheduler==3.10.1
+psycopg2-binary==2.9.9
+requests
+beautifulsoup4
