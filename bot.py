@@ -39,7 +39,7 @@ ADMIN_GROUP_ID = -1002385047417  # ID админской группы
 BANNED_WORDS = ["бляд", "хуй", "хер", "чмо", "пизд", "идиот", "хуев","наху", "гандон", "пидр", "пидор", "пидар", "шалав", "шлюх", "мраз", "мразо", "ебат", "ебал", "дебил", "имбецил", "говно"]
 MESSENGER_KEYWORDS = ["t.me", "telegram", "whatsapp", "viber", "discord", "vk.com", "instagram", "facebook", "twitter", "youtube",  ".be", "http", "https", "www", ".com", ".ru", ".net", "tiktok"]
 
-# Глобальные переменные
+# Глобальные ппеременные
 last_pinned_times = {}
 last_user_username = {}
 last_thanks_times = {}
